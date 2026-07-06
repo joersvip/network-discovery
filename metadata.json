@@ -1,0 +1,6 @@
+{
+  "name": "Network Intelligence Core",
+  "description": "Network Intelligence & Internal Messenger Dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
